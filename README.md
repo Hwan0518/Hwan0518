@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 - <a href="https://github.com/Hwan0518/OperatingSystem-Study" target="_blank"><img src="https://img.shields.io/badge/OS: OS Study-FCC624?style=flat&logo=Linux&logoColor=black"/></a>
 - <a href="https://github.com/Hwan0518/Network-Study" target="_blank"><img src="https://img.shields.io/badge/Network: Network Study-F89901?style=flat&logo=neutralinojs&logoColor=black"/></a>
 - <a href="https://github.com/Hwan0518/java-web-programming-nextstep" target="_blank"><img src="https://img.shields.io/badge/Spring: JavaWebProgramming Next Step-6DB33F?style=flat&logo=Spring&logoColor=000000"/></a>
-<!--- <a href="" target="_blank"><img src="https://img.shields.io/badge/SpringBoot: kyh lecture-6DB33F?style=flat&logo=SpringBoot&logoColor=000000"/></a> -->
 - <a href="https://github.com/Hwan0518/Algorithm" target="_blank"><img src="https://img.shields.io/badge/Algorithm: baekjoon, programmers-00BCB4?style=flat&logo=the algorithms&logoColor=000000"/></a>
-- <a href="https://gyoogle.dev/blog/interview/%EC%96%B8%EC%96%B4.html" target="_blank"><img src="https://img.shields.io/badge/Java: Tech Interview-437291?style=flat&logo=OpenJDK&logoColor=000000"/></a>
+- <a href="https://kdh0518.tistory.com/category/Java" target="_blank"><img src="https://img.shields.io/badge/Java: Tech Interview-437291?style=flat&logo=OpenJDK&logoColor=000000"/></a>
+<!--- <a href="" target="_blank"><img src="https://img.shields.io/badge/SpringBoot: kyh lecture-6DB33F?style=flat&logo=SpringBoot&logoColor=000000"/></a> -->
+
