@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qip0518)](https://solved.ac/qip0518/)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qip05181)](https://solved.ac/qip05181/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qip0518j)](https://solved.ac/qip0518j/)
 
 ---------------------------
