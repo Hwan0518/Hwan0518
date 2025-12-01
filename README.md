@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwan0518&show_icons=true&theme=dracula)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qip0518)](https://solved.ac/qip0518/)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qip0518j)](https://solved.ac/qip0518j/)
