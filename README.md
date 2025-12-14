@@ -10,7 +10,6 @@
 
 <!-- 블로그, 인스타, 메일, 노션 프로젝트페이지 -->
 <a href="https://kdh0518.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=tistory&logoColor=white"/></a>
-<a href="https://www.instagram.com/dh11.16/" target="_blank"><img src="https://img.shields.io/badge/Social-E4405F?flat&logo=instagram&logoColor=white"/></a>
 <a href='mailto:sip0518@pusan.ac.kr' target="_blank"><img src="https://img.shields.io/badge/sip0518@pusan.ac.kr-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 <!--
 <a href="https://doit-develop.notion.site/Projects-9cd079c9059b4cceb72927f90320c3d9?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Projects-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/></a>
